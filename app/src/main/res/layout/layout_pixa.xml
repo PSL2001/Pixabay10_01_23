@@ -36,6 +36,8 @@
             android:layout_height="wrap_content"
             android:layout_marginStart="72dp"
             android:layout_marginTop="16dp"
+            android:ellipsize="end"
+            android:lines="1"
             android:text="TextView"
             android:textColor="#B39DDB"
             android:textSize="20sp"
